@@ -1,8 +1,9 @@
 {
     "name": "cars24/cars24",
     "description": "cars24 yii2 couchbase component",
-    "type": "cars24-extension",
+    "type": "library",
     "keywords": ["cars24","extension","couchbase"],
+    "homepage": "https://cars24.com/",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "cars24\\couchbase-yii2\\": ""
+            "cars24\\cars24\\": "/cars24/cars24"
         }
     }
 }
