@@ -1,0 +1,21 @@
+{
+    "name": "cars24/couchbase-yii2",
+    "description": "cars24 yii2 couchbase component",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","couchbase"],
+    "license": "MIS",
+    "authors": [
+        {
+            "name": "Sandeepa Rajoriya",
+            "email": "sandeepa.rajoriya@cars24.com"
+        }
+    ],
+    "require": {
+        "cars24/couchbase-yii2": "*"
+    },
+    "autoload": {
+        "couchbase": {
+            "cars24\\couchbase-yii2\\": ""
+        }
+    }
+}
