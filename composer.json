@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cars\\": "couchbase-yii2"
+            "Cars24\\": "cars24/"
         }
     }
 }
